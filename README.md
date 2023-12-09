@@ -1,1 +1,2 @@
-READ.md
+# Mac
+## Mac - ne horosho
